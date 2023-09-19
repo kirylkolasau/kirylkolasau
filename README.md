@@ -9,8 +9,6 @@
     </a>
     <a href="https://join.skype.com/invite/aingDPKuNAlE" target="_blank">
       <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
-    </a>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=kirylkolasau&style=flat-square&color=blue" alt=""/>
+    </a>    
   </div>
 </div>
