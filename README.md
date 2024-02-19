@@ -11,4 +11,8 @@
       <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
     </a>    
   </div>
+  <div>
+    ![Screenshot_1](https://github.com/kirylkolasau/kirylkolasau/assets/60516234/15506bc5-8636-47b9-9657-d5bbb322f653)
+  </div>
+  
 </div>
